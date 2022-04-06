@@ -8,4 +8,3 @@ https://rgsdev.itch.io/animated-npc-workers-pack-2-alchemist-chef-priest-merchan
 
 Spritesheet generator
 https://codeshack.io/images-sprite-sheet-generator/
-
